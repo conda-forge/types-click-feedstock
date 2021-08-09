@@ -1,5 +1,5 @@
 {% set name = "types-click" %}
-{% set version = "7.1.4" %}
+{% set version = "7.1.5" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-click-{{ version }}.tar.gz
-  sha256: 3406cb4e4b406cdb7f5f0c8d681cd3d8504670e69ee0b17b12424d4f089e1c64
+  sha256: ced04123d857f5b05df7c6b10e9710e66cf2ec7d99d4ee48d04a07f4c1a83ad4
 
 build:
   number: 0
